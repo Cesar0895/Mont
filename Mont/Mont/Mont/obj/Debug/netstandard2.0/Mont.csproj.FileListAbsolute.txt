@@ -1,0 +1,32 @@
+C:\Users\FERNANDO\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.deps.json
+C:\Users\FERNANDO\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.dll
+C:\Users\FERNANDO\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.pdb
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csprojResolveAssemblyReference.cache
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.App.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Lexico.LexicoMain.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Lexico.tablaPalabras.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Semantico.SemanticoMain.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Sintactico.SintacticoMain.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfoInputs.cache
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfo.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.dll
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.pdb
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Portada.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Lexico.ErroresLexicos.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.deps.json
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.dll
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.pdb
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.App.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Lexico.ErroresLexicos.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Lexico.LexicoMain.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Lexico.tablaPalabras.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Portada.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Semantico.SemanticoMain.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Sintactico.SintacticoMain.xaml.g.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfoInputs.cache
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfo.cs
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.dll
+C:\Users\Cesar Ramses\Desktop\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.pdb

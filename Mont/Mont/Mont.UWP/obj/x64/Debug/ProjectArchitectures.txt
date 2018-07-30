@@ -1,0 +1,1 @@
+C:\Users\FERNANDO\Mont\Mont\Mont.UWP\Mont.UWP.csproj;x64

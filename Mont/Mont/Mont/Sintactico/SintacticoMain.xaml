@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mont.Sintactico.SintacticoMain">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Editor Text="" 
+                x:Name="txtResultado"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand"
+                Margin="10"/>
+
+            <Button x:Name="btnGenerar"
+            Text="Generar Arduino"/>
+
+            <Button x:Name="btnOptimizar"
+            Text="Compilar Optimizar"/>
+
+            <Button x:Name="btnCompilar"
+            Text="Compilar Semantico"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

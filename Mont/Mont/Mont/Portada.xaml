@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Mont"
+             x:Class="Mont.Portada"
+             Title="MONT"
+             Padding="10"
+             BackgroundColor="#164059">
+    <ContentPage.Content>
+        <Grid>
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+
+
+
+                </Grid.RowDefinitions>
+
+                <StackLayout Grid.Row="0" Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="20" Padding="10" BackgroundColor="#567D8C">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="clickCompilador"/>
+                    </StackLayout.GestureRecognizers>
+                    <Image Source= "compilador.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Aspect="AspectFill"/>
+                </StackLayout>
+
+
+                <StackLayout Grid.Row="1" Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="20" Padding="10" BackgroundColor="#567D8C">
+                    <Image Source= "instrucciones.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Aspect="AspectFill"/>
+
+                </StackLayout>
+
+                <StackLayout Grid.Row="2" Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="20" Padding="10" BackgroundColor="#567D8C">
+                    <Image Source= "integrantes.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Aspect="AspectFill"/>
+
+                </StackLayout>
+
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
